@@ -4,7 +4,7 @@
 
 
 **Description:**
-A simple, creative, and neat website template for restaurants! 
+Responsive e-commerce website template with animations ! 
 
 **Technologies used:**
  - HTML
@@ -15,7 +15,7 @@ A simple, creative, and neat website template for restaurants!
  - Download the entire code
  
 ![](https://i.imgur.com/mzqjgS4.png)
- - Open up the index.html.
+ - Run the folder on a local server (you can use Vscode).
  
 ## Contact
 Created by Shehab Beram - [here's my LinkedIn](https://www.linkedin.com/in/shehab-beram/) - contact me anytime!

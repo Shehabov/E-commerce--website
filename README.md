@@ -1,4 +1,4 @@
-# E-commerce--website
+# E-commerce website for smart phones
 <a href="https://imgur.com/rqfZ1qf"><img src="https://i.imgur.com/rqfZ1qf.jpg" title="source: imgur.com" /></a>
 
 
